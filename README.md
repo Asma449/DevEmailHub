@@ -22,8 +22,7 @@ It is designed for developers to showcase email features and reach users effecti
 ---
 
 ## 📸 Screenshots
-
-![Header](./assets/Screenshot.png)  
+(./assets/Screenshot.png)  
 
 ---
 
