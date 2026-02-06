@@ -29,13 +29,13 @@ It is designed for developers to showcase email features and reach users effecti
 
 ---
 
-## 💻 Installation & Setup
+# 💻 Installation & Setup
 
-1. Clone the repository:
-
+## 1. Clone the repository:
 ```bash
 git clone https://github.com/Asma449/DevEmailHub.git
-
+```
 
 ## 🔗 Live Demo
-[View Live Site](https://devemailhub-app.vercel.app)
+
+[View Live Site](https://dev-email-hub-4dye.vercel.app/)
